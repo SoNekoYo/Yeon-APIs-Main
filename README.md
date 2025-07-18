@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@yeonui.com or join our Discord server.
+For support, email yeonelle0@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -213,7 +213,7 @@ For support, email support@yeonui.com or join our Discord server.
 
 ---
 
-Made with ❤️ by [YeonElle](https://github.com/YeonElle)
+Made with ❤️ by [YeonElle](https://github.com/SoNekoYo)
 ```
 
 MIT License
