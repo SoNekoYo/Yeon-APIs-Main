@@ -1,0 +1,31 @@
+{
+  "name": "Yeon APIs Archive",
+  "version": "v1.0.0",
+  "description": "Beautiful, modern, and powerful API collection with stunning gradients and animations.",
+  "bannerImage": "/src/hero-banner.jpg",
+  "header": {
+    "status": "Online & Sparkling!"
+  },
+  "apiSettings": {
+    "creator": "YeonElle",
+    "apikey": ["yeon-api"]
+  },
+  "categories": [
+    {
+      "name": "AI Endpoints",
+      "icon": "fas fa-robot",
+      "color": "#FF6B6B",
+      "items": [
+        {
+          "name": "LuminAI Chat",
+          "desc": "Converse with advanced LuminAI - powered by cutting-edge AI technology",
+          "path": "/ai/luminai?text=",
+          "status": "ready",
+          "params": {
+            "text": "Your message to LuminAI"
+          }
+        }
+      ]
+    }
+  ]
+}
