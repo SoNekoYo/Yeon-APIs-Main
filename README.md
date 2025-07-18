@@ -216,10 +216,9 @@ For support, email support@yeonui.com or join our Discord server.
 Made with ❤️ by [YeonElle](https://github.com/YeonElle)
 ```
 
-```text file="LICENSE"
 MIT License
 
-Copyright (c) 2024 YeonElle
+Copyright (c) 2025 YeonElle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
